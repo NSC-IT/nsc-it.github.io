@@ -1,0 +1,24 @@
+.img-center
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header.navbar
+{
+	margin-bottom: 0;
+}
+
+.center
+{
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#frame
+{
+  text-align:center;
+  width:100%;
+}
